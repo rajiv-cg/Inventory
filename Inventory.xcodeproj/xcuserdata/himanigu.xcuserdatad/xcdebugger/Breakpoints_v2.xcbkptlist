@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9444F044-31EC-449A-8386-C67D944702EF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C14F46D-3E32-4906-B436-32B982ABF901"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Inventory/CategoryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "fetchCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C14F46D-3E32-4906-B436-32B982ABF901 - b5a7290fc8836cc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.CategoryViewModel.fetchCategories() -&gt; ()"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/Inventory/CategoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "5C14F46D-3E32-4906-B436-32B982ABF901 - b5a7290fc8836c20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.CategoryViewModel.fetchCategories() -&gt; ()"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/Inventory/CategoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "5C14F46D-3E32-4906-B436-32B982ABF901 - b5a7290fc883637a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.CategoryViewModel.fetchCategories() -&gt; ()"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/Inventory/CategoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AE17565-9710-48D3-B772-7D66DF44ADC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Inventory/ProductsList/ProductListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ProductListViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4AE17565-9710-48D3-B772-7D66DF44ADC1 - 1fd0bba386f1ab57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Inventory.ProductListViewModel.productList : Swift.Array&lt;Inventory.Product&gt;"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/Inventory/ProductsList/ProductListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "4AE17565-9710-48D3-B772-7D66DF44ADC1 - 701aa51a60636178"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.ProductListViewModel.productList.getter : Swift.Array&lt;Inventory.Product&gt;"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/Inventory/ProductsList/ProductListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "4AE17565-9710-48D3-B772-7D66DF44ADC1 - b300bc273f48b691"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.ProductListViewModel.productList.setter : Swift.Array&lt;Inventory.Product&gt;"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/Inventory/ProductsList/ProductListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "4AE17565-9710-48D3-B772-7D66DF44ADC1 - a8fb4d442d4ccc80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.ProductListViewModel.productList.modify : Swift.Array&lt;Inventory.Product&gt;"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/Inventory/ProductsList/ProductListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "4AE17565-9710-48D3-B772-7D66DF44ADC1 - 5947f7bc103f1505"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.ProductListViewModel.productList.modify : Swift.Array&lt;Inventory.Product&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "4AE17565-9710-48D3-B772-7D66DF44ADC1 - 3cdedde8fb0566cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.ProductListViewModel.$productList.getter : Combine.Published&lt;Swift.Array&lt;Inventory.Product&gt;&gt;.Publisher"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/Inventory/ProductsList/ProductListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "4AE17565-9710-48D3-B772-7D66DF44ADC1 - a0ff08249074a6b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.ProductListViewModel.$productList.setter : Combine.Published&lt;Swift.Array&lt;Inventory.Product&gt;&gt;.Publisher"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "4AE17565-9710-48D3-B772-7D66DF44ADC1 - 4239583b15dc03a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.ProductListViewModel.$productList.modify : Combine.Published&lt;Swift.Array&lt;Inventory.Product&gt;&gt;.Publisher"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "4AE17565-9710-48D3-B772-7D66DF44ADC1 - 32acda003d0feb65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.ProductListViewModel.$productList.modify : Combine.Published&lt;Swift.Array&lt;Inventory.Product&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3103B6FA-3152-4AC3-9AFA-B1ABF3307469"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Inventory/ProductsList/ProductListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchProductList(selectedCategory:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3103B6FA-3152-4AC3-9AFA-B1ABF3307469 - f0913eb1a54ad4c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.ProductListViewModel.fetchProductList(selectedCategory: Swift.String) -&gt; ()"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/Inventory/ProductsList/ProductListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "3103B6FA-3152-4AC3-9AFA-B1ABF3307469 - f0913eb1a54ad4c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Inventory.ProductListViewModel.fetchProductList(selectedCategory: Swift.String) -&gt; ()"
+                  moduleName = "Inventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/himanigu/Desktop/Inventory/Inventory/ProductsList/ProductListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "708">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "847923B3-D1C9-42D8-B7A3-3751E20683F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Inventory/Services/ProductViewService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "deleteProducts(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
