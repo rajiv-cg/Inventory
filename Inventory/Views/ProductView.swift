@@ -33,7 +33,7 @@ struct ProductView: View {
                             Label("Delete", systemImage: "trash")
                         }
                     }
-                }
+                }.accessibilityIdentifier("products list")
             }
         }
         .alert(isPresented: $vm.hasError,
@@ -49,7 +49,11 @@ struct ProductView: View {
                 Text("Retry")
             }
         }
-               .sheet(isPresented: $presentingModal) { AddProductView(selectedCategory: selectedCategory, vm: vm, presentedAsModal: self.$presentingModal) }
+               .sheet(isPresented: $presentingModal) {
+                   AddProductView(selectedCategory: selectedCategory,
+                                  vm: vm,
+                                  presentedAsModal: self.$presentingModal).accessibilityIdentifier("Add product")
+               }
                .navigationTitle("Products")
                .toolbar {
                    ToolbarItem(placement: .navigationBarTrailing) {
@@ -71,6 +75,8 @@ struct ProductView: View {
     }
 }
 
-//#Preview {
-//    ProductView(selectedCategory: "furniture")
-//}
+struct ProductView_Previews: PreviewProvider {
+    static var previews: some View {
+        ProductView(presentingModal: false, selectedCategory: "smartphones")
+    }
+}
